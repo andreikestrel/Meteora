@@ -1,0 +1,23 @@
+:root {
+    --verde:#DAFF01;
+    --lilas:#9353FF;
+}
+
+.texto-menor {
+    font-size: 0.6rem;
+}
+
+.divs-facilidade {
+    width: 325px;
+}
+.texto-verde{
+    color: var(--verde);
+}
+.btn-lilas{
+    background-color: var(--lilas);
+    color: white;
+}
+.btn-lilas:hover{
+    background-color: white;
+    color: var(--lilas);
+}
