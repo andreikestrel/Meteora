@@ -2,13 +2,6 @@
 
 Este é o repositório para o projeto Meteora, um site de comércio eletrônico de moda. O site foi desenvolvido como parte do curso de Bootstrap da Alura.
 
-## Curso da Alura
-
-Este projeto foi desenvolvido durante um curso da Alura. O curso tem como objetivo ensinar o uso do Bootstrap para a criação de layouts responsivos e aprimoramento das habilidades em HTML e CSS.
-
-## Pré-requisitos
-
-- Navegador da web
 
 ## Instruções de uso
 
