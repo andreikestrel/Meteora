@@ -1,6 +1,6 @@
 # Meteora
 
-Este é o repositório para o projeto Meteora, um site de comércio eletrônico de moda. O site foi desenvolvido como parte do curso de Bootstrap da Alura.
+Este é o repositório para o projeto Meteora, um site de comércio eletrônico de moda. Utilizando Bootstrap para a estilização.
 
 
 ## Instruções de uso
